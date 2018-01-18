@@ -22,8 +22,10 @@ while true
 	end
 
 	puts cryptomancer
+	puts "\n"
+	puts "Cryptocurrencie's values at #{Time.now}"
 	puts "------------------"
-	puts "sleping 60sec"
+	puts "sleping 1h"
 	sleep(3600)
 end
 
