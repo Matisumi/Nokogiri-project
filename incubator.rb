@@ -1,0 +1,1 @@
+page = Nokogiri::XML(open())
