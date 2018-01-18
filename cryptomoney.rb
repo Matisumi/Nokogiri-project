@@ -29,7 +29,7 @@ while true
 	puts "\n"  #empty line
 	puts "Cryptocurrencie's values at #{Time.now}" #tell us when the grid was checked
 	puts "------------------" #separating line
-	puts "sleping 1h"   #inform
+	puts "sleeping 1h"   #inform
 	sleep(3600) #put program on hold for 1h (3600 seconds)
 end
 
