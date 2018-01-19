@@ -35,3 +35,5 @@ def crypto_grid()
 		sleep(3600) #put program on hold for 1h (3600 seconds)
 	end
 end
+
+crypto_grid()
